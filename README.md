@@ -1,4 +1,4 @@
-## Hi, I'm Sagar Sharma
+## Hi, I'm Sreedeepta Mitra
 ## A Simple Number Guessing Game. You will be given 5 chances to guess a number...
 <br>
 
